@@ -55,7 +55,7 @@
     "@types/react-dom": "^19.1.2",
     "@types/react-test-renderer": "^19.1.0",
     "@vitejs/plugin-react": "^4.4.1",
-    "@vitest/browser": "^5.0.0",
+    "@vitest/browser": "^5.0.5",
     "@vitest/coverage-v8": "^5.0.0",
     "@vitest/ui": "^5.0.0",
     "autoprefixer": "^10.4.21",
