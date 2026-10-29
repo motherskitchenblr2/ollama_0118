@@ -30,7 +30,7 @@ require (
 	github.com/tree-sitter/go-tree-sitter v0.25.0
 	github.com/tree-sitter/tree-sitter-cpp v0.23.4
 	github.com/wk8/go-ordered-map/v2 v2.1.8
-	golang.org/x/image v0.22.0
+	golang.org/x/image v0.41.0
 	golang.org/x/mod v0.35.0
 )
 
